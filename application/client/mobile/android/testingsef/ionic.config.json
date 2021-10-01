@@ -1,0 +1,7 @@
+{
+  "name": "testingsef",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
